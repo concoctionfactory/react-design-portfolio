@@ -1,0 +1,1 @@
+{"version":3,"sources":["D:/_react/portfolioSite/design-portfolio/src/D:/_react/portfolioSite/design-portfolio/src/App.css"],"names":[],"mappings":"AAAA,KACE,gBAAiB,AACjB,gBAAiB,AACjB,WAAa,CACd","file":"main.c8f17092.chunk.css","sourcesContent":[".App {\r\n  max-width: 992px;\r\n  min-width: 300px;\r\n  margin: auto;\r\n}\r\n"]}
