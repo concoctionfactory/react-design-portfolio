@@ -411,6 +411,34 @@ export const projects = [
       "select_5.jpg"
     ],
     url: "select"
+  },
+  {
+    folder: "grenco_pop",
+    thumbnail: "grenco_pop_thumb.jpg",
+    title: "grenco_pop",
+    tasks: ["modeling", "rendering", "concept"],
+    description: "this is grenco_pop",
+    images: [
+      "grenco_pop_1.jpg",
+      "grenco_pop_2.jpg",
+      "grenco_pop_3.jpg",
+      "grenco_pop_4.jpg",
+      "grenco_pop_5.jpg",
+      "grenco_pop_6.jpg",
+      "grenco_pop_7.jpg",
+      "grenco_pop_8.jpg",
+      "grenco_pop_9.jpg"
+    ],
+    url: "grenco_pop"
+  },
+  {
+    folder: "pop",
+    thumbnail: "pop_thumb.jpg",
+    title: "pop",
+    tasks: ["modeling", "rendering", "concept"],
+    description: "this is pop",
+    images: ["pop_1.jpg", "pop_2.jpg", "pop_3.jpg", "pop_4.jpg"],
+    url: "pop"
   }
 ];
 
